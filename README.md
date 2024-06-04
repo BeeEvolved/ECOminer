@@ -9,7 +9,8 @@ The ECOminer is designed to utilize 50 ASIC chips BM1366.
 
 PCB mockup for heatsink sizing compatibility testing. It's a rendered section of the ECOminer PCB to ensure the S19XP heatsink is sized properly.
 
-The anticipated hash rate for 50 BM1366 ASICs, collectively achieving a hash rate of 25 terahashes per second (TH/s), is correctly calculated.
+### The anticipated hash rate for 50 BM1366 ASICs, collectively achieving a hash rate of 25 TH/s
+
 ![ECOminer1](https://github.com/BeeEvolved/ECOminer/blob/main/images/ECOminer.jpg)
 ![ECOminer2](https://github.com/BeeEvolved/ECOminer/blob/main/images/ECOminer1.jpg)
 ![ECOminer3](https://github.com/BeeEvolved/ECOminer/blob/main/images/ECOminer2.jpg)
