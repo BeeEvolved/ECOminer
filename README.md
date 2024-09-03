@@ -3,8 +3,6 @@
 ECOminer is an open-source Bitcoin miner that aims to encourage the recycling of Bitcoin mining hardware e-waste. ECOminer primarily utilizes the chassis from the S9 and the heatsink from the S19, along with any other parts that can be salvaged and recycled from both Bitcoin mining models.
 ### Design Goals
 
-Control Board: ECOmminer to be controlled by the [Bitcrane](https://github.com/skot/bitcrane).
-
 The ECOminer is designed to utilize 50 ASIC chips BM1366.
 
 PCB mockup for heatsink sizing compatibility testing. It's a rendered section of the ECOminer PCB to ensure the S19XP heatsink is sized properly.
