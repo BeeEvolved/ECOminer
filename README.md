@@ -14,4 +14,4 @@ PCB mockup for heatsink sizing compatibility testing. It's a rendered section of
 ![ECOminer3](https://github.com/BeeEvolved/ECOminer/blob/main/images/ECOminer2.jpg)
 ![ECOminer4](https://github.com/BeeEvolved/ECOminer/blob/main/images/ECOminer3.jpg)
 
-#### Inspired by the [Bitaxe](https://github.com/skot/bitaxe)
+
